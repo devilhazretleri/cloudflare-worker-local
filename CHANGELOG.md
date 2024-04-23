@@ -4,7 +4,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [1.15.0](https://github.com/gja/cloudflare-worker-local/compare/v1.13.0...v1.15.0) (2022-02-04)
 
-
 ### Features
 
 * Set CF-IPCountry header from env var, close [#80](https://github.com/gja/cloudflare-worker-local/issues/80) ([#81](https://github.com/gja/cloudflare-worker-local/issues/81)) ([4b8b0e1](https://github.com/gja/cloudflare-worker-local/commit/4b8b0e1e758b5b840d8fea9724b5ae3624d40e81))
